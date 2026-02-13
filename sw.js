@@ -1,5 +1,5 @@
 // Nama cache
-const CACHE_NAME = 'PlasticBrainMS-v1';
+const CACHE_NAME = 'PlasticBrainMS-v2';
 
 // Fail yang diprecache (shell app) — ikut base path GitHub Pages
 const PRECACHE = [
